@@ -1,4 +1,4 @@
-var cacheName = 'ren-py-roguelike';
+var cacheName = 'ren-py-rpg';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
